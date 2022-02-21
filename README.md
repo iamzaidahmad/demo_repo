@@ -1,4 +1,4 @@
 # LEARNING GIT
 
 Learning is a lifetime process.
-We should be learners for life.
+We should be learners for life!
